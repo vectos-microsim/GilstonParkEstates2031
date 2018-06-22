@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Video Locations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27700" } },
+"features": [
+{ "type": "Feature", "properties": { "Location": "4 - Burnt Mill Roundabout (including Central Crossing and Site Access junction)\n", "AM Video": "AM link here", "PM Video": "PM link here" }, "geometry": { "type": "Point", "coordinates": [ 544272.071074950741604, 211335.834368652227568 ] } },
+{ "type": "Feature", "properties": { "Location": "2 - A1019\/A1025\n", "AM Video": "https:\/\/youtu.be\/4jBjBPUI758", "PM Video": "PM link here" }, "geometry": { "type": "Point", "coordinates": [ 544826.202612304594368, 209735.609969482466113 ] } },
+{ "type": "Feature", "properties": { "Location": "1 - A1019\/Fourth Avenue\/First Mandela Avenue Junction", "AM Video": "https:\/\/www.youtube.com\/watch?v=gXHcdU5aJc4&feature=youtu.be", "PM Video": "PM link here" }, "geometry": { "type": "Point", "coordinates": [ 544666.035284179728478, 210327.807590576121584 ] } },
+{ "type": "Feature", "properties": { "Location": "3 - A414\/B183", "AM Video": "AM link here", "PM Video": "PM link here" }, "geometry": { "type": "Point", "coordinates": [ 546907.324145507533103, 211106.515850341646001 ] } },
+{ "type": "Feature", "properties": { "Location": "5 - Harlow Clock Tower roundabout\n", "AM Video": "AM link here", "PM Video": "PM link here" }, "geometry": { "type": "Point", "coordinates": [ 546816.703157225972973, 209369.964819091837853 ] } },
+{ "type": "Feature", "properties": { "Location": "6 - Terlings Park access\/Eastern Crossing", "AM Video": "AM link here", "PM Video": "PM link here" }, "geometry": { "type": "Point", "coordinates": [ 544861.897798095014878, 211907.879357177240308 ] } }
+]
+}
